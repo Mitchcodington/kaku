@@ -5,11 +5,17 @@ Kaku is a budget and expense tracker app.
 Project was created with:
 
 React: 18.2.0,
+
 bootstrap
+
 React bootstrap
+
 Firebase
+
 uuid
+
 react router dom
+
 
 FEATURES
 
