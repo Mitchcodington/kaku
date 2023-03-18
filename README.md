@@ -21,7 +21,13 @@ FEATURES
 
 *Engaging and functional UI
 
-*add, view and delete 
+*Create 
+
+*View  
+
+*Delete
+
+*Modal pop up
 
 *data persistent after reload(local storage)
 
